@@ -1,6 +1,6 @@
 ### Live link
 
-<a href="https://taskmanager-website-7we1.onrender.com">Click here</a>
+<a href="https://taskmanager-website-7we1.onrender.com" target="_blank">Click here</a>
 
 ### Ports
 
