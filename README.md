@@ -8,9 +8,9 @@
 
 ### Packages
 
-- To install packages: write "npm install" in the terminal.
+> - To install packages: write "npm install" in the terminal.
 
-- Create .env file and connect it to your DB.
+> - Create .env file and connect it to your DB.
   
 ### Async wrapper 
 > -  To avoid rewriting try and catch for each controller method
